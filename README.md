@@ -1,6 +1,6 @@
 # FileCopier 📁📂📝
 
-FileCopier is a simple yet powerful utility designed to copy missing files from a parent folder to a child folder, ensuring seamless synchronization between two directories.
+FileCopier is a simple yet powerful utility designed to copy missing files, from a parent folder to a child folder, ensuring seamless synchronization between two directories.
 
 ## Supported Languages
 - Java ☕
